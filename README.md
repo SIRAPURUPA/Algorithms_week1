@@ -1,1 +1,2 @@
-# Algorithms_week1
+Repository About?
+Solution for "Algorithms Part-1"
