@@ -1,9 +1,5 @@
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
-
-/**
- * @author Dima Pasieka
- */
 public class Percolation {
 
     // Length of the square grid "gridLength * gridLength"
